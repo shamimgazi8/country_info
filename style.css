@@ -7,13 +7,12 @@
 .main_body {
   height: 102vh;
   background-color: black;
-  background-image: url(wfb-homepage-globe.png);
+  background-image: url(abstract-wall-k6.jpg);
   background-repeat: no-repeat;
   transition: all 1s;
 }
 .heading {
   height: 10vh;
-  background-color: white;
   opacity: 90%;
   transition: 0.6s;
 }
