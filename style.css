@@ -12,6 +12,7 @@
   transition: all 1s;
 }
 .heading {
+    color: white;
   height: 10vh;
   opacity: 90%;
   transition: 0.6s;
